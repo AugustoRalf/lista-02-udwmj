@@ -1,0 +1,48 @@
+body {
+    background-color: #101820;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+    min-height: 100vh;
+    margin: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cartao {
+    background-color: #24303b;
+    padding: 30px;
+    border-radius: 15px;
+    max-width: 400px;
+    margin: 20px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: #cbd5e1;
+    line-height: 1.6;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin: 12px;
+}
+
+a {
+    color: #a7d6f5;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
